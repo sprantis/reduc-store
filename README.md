@@ -1,1 +1,1 @@
-# reduc-store
+# redux-store
